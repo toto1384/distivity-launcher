@@ -1,0 +1,668 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.github.Pradyuman7:ChocoBar:V1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\09fd2bf613e99fcbd0d2ea4be1309100\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\02b9e79feebae95f537ec11d292a5ebf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.airbnb.android:lottie:3.0.6] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\34433011aff861c404c2be7b57b40992\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\676a12c80c7219a501a6e1cbc6900c18\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ff65d26e03c2f5c4c9e90df7a1f5da7c\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f56c8fb481c5651331813cdb1f8e263\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a27e64ae9842f71a2e287087079d572e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7d32ad3b6eae0fa5c759009ab7e0bf24\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:15:1-36:12
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\93d63a7bf0bb0c3518d9201dd8905f55\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ankushgrover:Hourglass:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\c0e108185224c52b804203abea0e1482\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:17:1-72:12
+MERGED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\16d26c9cf16e54c164f02169ef65672f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\095e3ac53038380994c0bca563c2117c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2bfb49154adf2ace22ad01cfa94aad45\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0748b1d3fae702185978db729cf58791\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d5566fce600bae8d898691111a2c608c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\82f70fdcb936da0e52fa3e762c844f03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\6bfbf3cf3e12f4fb19a4af9fe7f10542\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\50a3d3230c5b6e55d61b6243b1450564\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\30a7c4f6f73bad9d1cb9a8049cb03aa8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\498b95cd0813f07cfe070383e3e9d3c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f250fbf15daec126839e51c630e237c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ddc31c06cd8d21cf9b6eb36474544d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1a0fb656ba8d34155cd9ec533d7c43c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e7abfb7a83ae2c7053395c78c4524b06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\eecdfb49d4fbde6174da032cac2f5b43\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\583fad0465c455c0bb9aec3a392f5395\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d0fe98c2e0c23ff3abe21f48f8a8de4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\9f7fb4f40f454bf101b00c71d0f7b7af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e6accc5fbb35c0957a15712758bf3c5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\685d214f0f24e12726340e07fe83a80b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\96d0b67b6c6f3345b39206e66dc91f95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ef892c32aa88c4ae1d56ce654ccb61b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\5c30bca513f1d2306d2355e49ea5c467\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\56ce1ea5d48812273f1594541671d197\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\014d82ed955d9bb693815fac59d3218e\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\19ccc14d7094f44addedefabaf5f53ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\351fada85d583baf309d0538a7a4ee7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0eba32b6359bc082eb54a4ef8008536e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\be87d4717ecc23739335abfac4b8c003\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\adde3643acfc92fc4713def5d5fb6a2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1e66c90c0241bd386f6dc4e47d68fd90\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\31f4c952054af07beeb2561d6ad33b98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\467723170e4e1e3e506faef809d5780d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d9139b2124f6f81338a52d82f0db2777\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1b6f625755a14ddd11c340efded2cc37\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\9c1f28e513067e17f516c3216709af62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e06a691ecf743ef6677a0fdc1bc8dd1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\49b55bcff2e9fae7aea254a80229c7e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\789db9e667cd8613eda5583f1c37e13e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a6c078693d55891f64347f20c956dffb\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:4:5-49
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:6:22-64
+dist:module
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:8:5-40
+	dist:instant
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:8:18-37
+application
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.github.Pradyuman7:ChocoBar:V1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\09fd2bf613e99fcbd0d2ea4be1309100\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.Pradyuman7:ChocoBar:V1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\09fd2bf613e99fcbd0d2ea4be1309100\AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\02b9e79feebae95f537ec11d292a5ebf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\02b9e79feebae95f537ec11d292a5ebf\AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:3.0.6] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\34433011aff861c404c2be7b57b40992\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.0.6] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\34433011aff861c404c2be7b57b40992\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ff65d26e03c2f5c4c9e90df7a1f5da7c\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ff65d26e03c2f5c4c9e90df7a1f5da7c\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f56c8fb481c5651331813cdb1f8e263\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f56c8fb481c5651331813cdb1f8e263\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7d32ad3b6eae0fa5c759009ab7e0bf24\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7d32ad3b6eae0fa5c759009ab7e0bf24\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:28:5-34:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:28:5-70:19
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:28:5-70:19
+MERGED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\16d26c9cf16e54c164f02169ef65672f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\16d26c9cf16e54c164f02169ef65672f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\095e3ac53038380994c0bca563c2117c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\095e3ac53038380994c0bca563c2117c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2bfb49154adf2ace22ad01cfa94aad45\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2bfb49154adf2ace22ad01cfa94aad45\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0748b1d3fae702185978db729cf58791\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0748b1d3fae702185978db729cf58791\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d5566fce600bae8d898691111a2c608c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d5566fce600bae8d898691111a2c608c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\82f70fdcb936da0e52fa3e762c844f03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\82f70fdcb936da0e52fa3e762c844f03\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\6bfbf3cf3e12f4fb19a4af9fe7f10542\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\6bfbf3cf3e12f4fb19a4af9fe7f10542\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\50a3d3230c5b6e55d61b6243b1450564\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\50a3d3230c5b6e55d61b6243b1450564\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\30a7c4f6f73bad9d1cb9a8049cb03aa8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\30a7c4f6f73bad9d1cb9a8049cb03aa8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\56ce1ea5d48812273f1594541671d197\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\56ce1ea5d48812273f1594541671d197\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\014d82ed955d9bb693815fac59d3218e\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\014d82ed955d9bb693815fac59d3218e\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\56ce1ea5d48812273f1594541671d197\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:13:9-49
+	android:allowBackup
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:11:9-34
+activity#com.distivity.productivitylauncher.Activities.SettingsActivity
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:18:9-74
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:18:19-62
+activity#com.distivity.productivitylauncher.Activities.GetPremiumActivity
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:19:9-67
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:19:19-64
+activity#com.distivity.productivitylauncher.Activities.WelcomeActivity
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:20:9-64
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:20:19-61
+activity#com.distivity.productivitylauncher.Activities.HomeActivity
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:22:9-33:20
+	android:launchMode
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:24:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:25:13-64
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:23:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:26:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:29:27-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:30:27-73
+category#android.intent.category.HOME
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:31:17-73
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:31:27-70
+meta-data#preloaded_fonts
+ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:35:9-37:57
+	android:resource
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml:36:13-43
+uses-sdk
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.Pradyuman7:ChocoBar:V1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\09fd2bf613e99fcbd0d2ea4be1309100\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Pradyuman7:ChocoBar:V1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\09fd2bf613e99fcbd0d2ea4be1309100\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\02b9e79feebae95f537ec11d292a5ebf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\02b9e79feebae95f537ec11d292a5ebf\AndroidManifest.xml:20:5-44
+MERGED from [com.airbnb.android:lottie:3.0.6] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\34433011aff861c404c2be7b57b40992\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.0.6] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\34433011aff861c404c2be7b57b40992\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\676a12c80c7219a501a6e1cbc6900c18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\676a12c80c7219a501a6e1cbc6900c18\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ff65d26e03c2f5c4c9e90df7a1f5da7c\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ff65d26e03c2f5c4c9e90df7a1f5da7c\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f56c8fb481c5651331813cdb1f8e263\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f56c8fb481c5651331813cdb1f8e263\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a27e64ae9842f71a2e287087079d572e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a27e64ae9842f71a2e287087079d572e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7d32ad3b6eae0fa5c759009ab7e0bf24\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7d32ad3b6eae0fa5c759009ab7e0bf24\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:19:5-21:41
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\93d63a7bf0bb0c3518d9201dd8905f55\AndroidManifest.xml:7:5-9:41
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.3.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\93d63a7bf0bb0c3518d9201dd8905f55\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ankushgrover:Hourglass:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\c0e108185224c52b804203abea0e1482\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ankushgrover:Hourglass:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\c0e108185224c52b804203abea0e1482\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\16d26c9cf16e54c164f02169ef65672f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\16d26c9cf16e54c164f02169ef65672f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\095e3ac53038380994c0bca563c2117c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\095e3ac53038380994c0bca563c2117c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2bfb49154adf2ace22ad01cfa94aad45\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2bfb49154adf2ace22ad01cfa94aad45\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0748b1d3fae702185978db729cf58791\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0748b1d3fae702185978db729cf58791\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d5566fce600bae8d898691111a2c608c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d5566fce600bae8d898691111a2c608c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\82f70fdcb936da0e52fa3e762c844f03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\82f70fdcb936da0e52fa3e762c844f03\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\6bfbf3cf3e12f4fb19a4af9fe7f10542\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\6bfbf3cf3e12f4fb19a4af9fe7f10542\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\50a3d3230c5b6e55d61b6243b1450564\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\50a3d3230c5b6e55d61b6243b1450564\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\30a7c4f6f73bad9d1cb9a8049cb03aa8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\30a7c4f6f73bad9d1cb9a8049cb03aa8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\498b95cd0813f07cfe070383e3e9d3c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\498b95cd0813f07cfe070383e3e9d3c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f250fbf15daec126839e51c630e237c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1f250fbf15daec126839e51c630e237c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ddc31c06cd8d21cf9b6eb36474544d6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ddc31c06cd8d21cf9b6eb36474544d6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1a0fb656ba8d34155cd9ec533d7c43c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1a0fb656ba8d34155cd9ec533d7c43c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e7abfb7a83ae2c7053395c78c4524b06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e7abfb7a83ae2c7053395c78c4524b06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\eecdfb49d4fbde6174da032cac2f5b43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\eecdfb49d4fbde6174da032cac2f5b43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\583fad0465c455c0bb9aec3a392f5395\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\583fad0465c455c0bb9aec3a392f5395\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d0fe98c2e0c23ff3abe21f48f8a8de4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d0fe98c2e0c23ff3abe21f48f8a8de4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\9f7fb4f40f454bf101b00c71d0f7b7af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\9f7fb4f40f454bf101b00c71d0f7b7af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e6accc5fbb35c0957a15712758bf3c5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e6accc5fbb35c0957a15712758bf3c5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\685d214f0f24e12726340e07fe83a80b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\685d214f0f24e12726340e07fe83a80b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\96d0b67b6c6f3345b39206e66dc91f95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\96d0b67b6c6f3345b39206e66dc91f95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ef892c32aa88c4ae1d56ce654ccb61b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\ef892c32aa88c4ae1d56ce654ccb61b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\5c30bca513f1d2306d2355e49ea5c467\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\5c30bca513f1d2306d2355e49ea5c467\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\56ce1ea5d48812273f1594541671d197\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\56ce1ea5d48812273f1594541671d197\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\014d82ed955d9bb693815fac59d3218e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\014d82ed955d9bb693815fac59d3218e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\19ccc14d7094f44addedefabaf5f53ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\19ccc14d7094f44addedefabaf5f53ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\351fada85d583baf309d0538a7a4ee7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\351fada85d583baf309d0538a7a4ee7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0eba32b6359bc082eb54a4ef8008536e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\0eba32b6359bc082eb54a4ef8008536e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\be87d4717ecc23739335abfac4b8c003\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\be87d4717ecc23739335abfac4b8c003\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\adde3643acfc92fc4713def5d5fb6a2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\adde3643acfc92fc4713def5d5fb6a2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1e66c90c0241bd386f6dc4e47d68fd90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1e66c90c0241bd386f6dc4e47d68fd90\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\31f4c952054af07beeb2561d6ad33b98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\31f4c952054af07beeb2561d6ad33b98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\467723170e4e1e3e506faef809d5780d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\467723170e4e1e3e506faef809d5780d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d9139b2124f6f81338a52d82f0db2777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\d9139b2124f6f81338a52d82f0db2777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1b6f625755a14ddd11c340efded2cc37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\1b6f625755a14ddd11c340efded2cc37\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\9c1f28e513067e17f516c3216709af62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\9c1f28e513067e17f516c3216709af62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e06a691ecf743ef6677a0fdc1bc8dd1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e06a691ecf743ef6677a0fdc1bc8dd1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\49b55bcff2e9fae7aea254a80229c7e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\49b55bcff2e9fae7aea254a80229c7e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\789db9e667cd8613eda5583f1c37e13e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\789db9e667cd8613eda5583f1c37e13e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a6c078693d55891f64347f20c956dffb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a6c078693d55891f64347f20c956dffb\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Totolici Ionut\Desktop\DistivityLauncher\app\src\main\AndroidManifest.xml
+service#leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:23:9-29:19
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:24:13-67
+intent-filter#action:name:leakcanary.ANALYSIS_ACTION
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:26:13-28:29
+action#leakcanary.ANALYSIS_ACTION
+ADDED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2d6d1f949bd491f01fa0deb3fd55dcc1\AndroidManifest.xml:27:25-66
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\013ff7d211b0f4ef2dc634c567fad567\AndroidManifest.xml:26:13-74
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:18.1.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\3fb5ff1efb08052ca165f6aff3b7570d\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\db98b2422b121d50a65a4c1ff0d91725\AndroidManifest.xml:31:17-109
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:26:22-74
+provider#leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:29:9-37:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:33:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:31:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:30:13-70
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:35:17-67
+activity#leakcanary.internal.activity.LeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:39:9-44:66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:42:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:41:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:44:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:43:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:40:13-69
+activity-alias#leakcanary.internal.activity.LeakLauncherActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:46:9-59:26
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:48:13-66
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:50:13-71
+	android:targetActivity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:51:13-79
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:49:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:53:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:52:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:47:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:54:13-58:29
+activity#leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:61:9-67:68
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:65:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:63:13-46
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:64:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:67:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:66:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:62:13-80
+receiver#leakcanary.internal.NotificationReceiver
+ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android-core:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\52706f680b413ce9097253f48fc185c6\AndroidManifest.xml:69:19-74
+provider#leakcanary.internal.LeakSentryInstaller
+ADDED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:10:13-73
+	android:exported
+		ADDED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leaksentry:2.0-alpha-2] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\4d3c65347d1f901dc16a780b716ce554\AndroidManifest.xml:9:13-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\94fc9160d0d620b26cc95f691c2d8f93\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\a2c597f9ec23a37841cd7d439b5a64f3\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\7ee3480e570af64fae3cf3d66f465541\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\e56193f70b98d7d982eba3df34d2e405\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\2a9107910e7b16db61e700f82db9b4ed\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\145f92f75a6bfdb177ca686aa4bc141a\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\bc705a9a278563a2f232cd282fcfe542\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\278fb386a4a561dbcc72f1fc4c4f5d85\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Totolici Ionut\.gradle\caches\transforms-2\files-2.1\20ea773d46cb5632130a75003313b157\AndroidManifest.xml:24:13-79

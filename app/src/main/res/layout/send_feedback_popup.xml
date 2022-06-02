@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="Send feedback"
+        android:textColor="?android:textColorPrimary"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_gravity="center_horizontal"
+        android:textColorHint="?android:textColorPrimary"
+        android:hint="Feedback goes here !"
+        android:id="@+id/feed_back_edit_text_popup"/>
+
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:layout_gravity="center_horizontal"
+        android:textAllCaps="false"
+        android:layout_margin="10dp"
+        android:background="@drawable/buttons_background"
+        android:textColor="@color/colorWhite"
+        android:id="@+id/send_feedback_button_popup"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textColor="?android:textColorPrimary"
+        android:text="@string/popup_feedback_string"/>
+
+</LinearLayout>

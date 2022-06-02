@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Distivity Launcher</string>
+    <string name="hint_for_now">The \'For now\' tab shows todos that need to be done in order to open any non-whitelisted app.\n\n The \'For later\' tab shows todos that don\'t. \n\n P.S : You can swipe todos from \'For later\' tab to move them to \'For now\'.</string>
+    <string name="bottom_sheet_hint">While you are working only 5 apps will show(that are chosen by you) and long pressing on any will change that app. \n\n  While you are in your free time all apps will be shown and long pressing on any will send you to the info screen of the app \n\n  PS: You are in work mode while you have unchecked todos and in free time while you haven\'t</string>
+    <string name="premium_string1">1. You will have access to the \'For later\' tab. There you can add todos that don\'t need to be completed in order to access non whitelisted apps. You can also swipe each to move them to the \'For now\' tab.</string>
+    <string name="premium_string2">2.You can add more than 5 sub tasks to a todo. Now you can get wild.( ͡° ͜ʖ ͡°)</string>
+    <string name="premium_string3"> 3.Future implementations with other Distivity apps. I plan to launch 4 more apps by the way! </string>
+    <string name="popup_feedback_string">This will not launch any additional app \n and your feedback will be \n send into our databases</string>
+    <string name="set_number_or_whitelisted_apps">Set number or whitelisted apps</string>
+    <string name="empty_view_string_for_now">Looks like you are done for now. You can now open any app or you can start adding new todos</string>
+    <string name="empty_view_string_for_later">Nothing here. Remember that the todos for later don\'t need to be checked in order to open any apps</string>
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ankushgrover:Hourglass:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0e108185224c52b804203abea0e1482/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0e108185224c52b804203abea0e1482/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ankushgrover/Hourglass/2.0.0/f0d3d163840b2b855a518e581b77120a4c282774/Hourglass-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

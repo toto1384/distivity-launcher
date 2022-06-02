@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:textColorSecondary"
+    android:id="@+id/parrent_todo_list_item"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <com.distivity.productivitylauncher.CustomCheckbox
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        android:id="@+id/checkbox_todo_list_item">
+
+    </com.distivity.productivitylauncher.CustomCheckbox>
+
+
+    <EditText
+        android:layout_width="0dp"
+        android:id="@+id/edit_text_todo_list_item"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toEndOf="@id/checkbox_todo_list_item"
+        app:layout_constraintTop_toTopOf="@id/more_todo_list_item"
+        app:layout_constraintBottom_toBottomOf="@id/expand_impand_image_view_todo_list_item"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:hint="Enter your todo here"
+        android:background="@null"
+        android:focusableInTouchMode="true"
+        android:layout_marginStart="5dp"
+        android:textSize="14sp"
+        android:textColor="?android:textColorPrimary"
+        android:textColorHint="@color/colorGray"
+        android:descendantFocusability="beforeDescendants"
+        app:layout_constraintEnd_toStartOf="@id/more_todo_list_item"/>
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:padding="3dp"
+        app:layout_constraintStart_toStartOf="@id/more_todo_list_item"
+        app:layout_constraintEnd_toEndOf="@id/more_todo_list_item"
+       app:layout_constraintTop_toBottomOf="@id/more_todo_list_item"
+        app:srcCompat="@drawable/ic_carret_down"
+        android:tint="?android:textColorPrimary"
+        android:id="@+id/expand_impand_image_view_todo_list_item"
+        />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:padding="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_dots_horizontal"
+        android:tint="?android:textColorPrimary"
+        android:id="@+id/more_todo_list_item"
+        />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

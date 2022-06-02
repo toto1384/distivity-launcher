@@ -1,0 +1,4 @@
+#Fri Jul 19 15:55:13 EEST 2019
+base.0=C\:\\Users\\Totolici Ionut\\Desktop\\DistivityLauncher\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

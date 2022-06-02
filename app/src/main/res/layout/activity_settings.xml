@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:textColorSecondary"
+    tools:context=".Activities.SettingsActivity">
+
+
+
+    <TextView
+         android:layout_width= "wrap_content"
+         android:layout_height= "wrap_content"
+         android:textSize= "40sp"
+         android:layout_gravity= "center_horizontal"
+         android:gravity= "center_horizontal"
+         android:text= "Settings"
+         android:textColor= " ?android:textColorPrimary"
+         android:textStyle="bold"
+        android:id="@+id/title_view_settings"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="30dp"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="?android:textColorPrimary"
+        android:text="Todos"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/title_view_settings"
+        android:layout_marginStart="10dp"
+        android:id="@+id/title_todo_settings"
+        android:layout_marginTop="30dp"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        app:layout_constraintStart_toStartOf="@id/title_todo_settings"
+        app:layout_constraintEnd_toEndOf="@id/title_todo_settings"
+        android:background="?android:textColorPrimary"
+        app:layout_constraintTop_toBottomOf="@id/title_todo_settings"
+        />
+
+
+    <com.distivity.productivitylauncher.CustomSwitch
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="10dp"
+        app:layout_constraintTop_toBottomOf="@id/title_todo_settings"
+        android:layout_marginTop="20dp"
+        android:textSize="14sp"
+        android:text="Automatically delete todo when checked"
+        android:textColor="?android:textColorPrimary"
+        android:id="@+id/delete_todo_when_checked_switch_settings"/>
+
+
+    <com.distivity.productivitylauncher.CustomSwitch
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="10dp"
+        app:layout_constraintTop_toBottomOf="@id/delete_todo_when_checked_switch_settings"
+        android:layout_marginTop="30dp"
+        android:textSize="14sp"
+        android:text="Delete checked todo after checking it again(and uncheck by long press)"
+        android:textColor="?android:textColorPrimary"
+        android:id="@+id/delete_checked_todo_on_one_more_check"/>
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="?android:textColorPrimary"
+        android:text="Apps"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/delete_checked_todo_on_one_more_check"
+        android:layout_marginStart="10dp"
+        android:id="@+id/apps_title_settings"
+        android:layout_marginTop="30dp"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        app:layout_constraintStart_toStartOf="@id/apps_title_settings"
+        app:layout_constraintEnd_toEndOf="@id/apps_title_settings"
+        android:background="?android:textColorPrimary"
+        app:layout_constraintTop_toBottomOf="@id/apps_title_settings"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/set_number_or_whitelisted_apps"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/tv_set_number_of_whitelisted_apps_activity_settingds"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="10dp"
+        android:textColor="?android:textColorPrimary"
+        app:layout_constraintTop_toBottomOf="@id/apps_title_settings"/>
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        android:max="15"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:progress="5"
+        android:id="@+id/seek_bar_number_of_whitelisted_apps_activity_settings"
+        app:layout_constraintTop_toBottomOf="@id/tv_set_number_of_whitelisted_apps_activity_settingds"
+        />
+
+
+
+    <com.distivity.productivitylauncher.CustomSwitch
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="10dp"
+        app:layout_constraintTop_toBottomOf="@id/seek_bar_number_of_whitelisted_apps_activity_settings"
+        android:layout_marginTop="30dp"
+        android:textSize="14sp"
+        android:text="Solve 10 math problems before opening any non-whitelisted app"
+        android:textColor="?android:textColorPrimary"
+        android:id="@+id/math_problems_activity_settings"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

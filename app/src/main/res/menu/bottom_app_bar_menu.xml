@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/app_bar_dark_mode"
+        android:title="Dark mode"
+        android:icon="@drawable/ic_mooon_icon"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/app_bar_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/app_bar_rate_app"
+        android:title="Rate app ʕ•ᴥ•ʔ"
+        android:icon="@drawable/ic_star"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/app_bar_send_feedback"
+        android:title="Send Feedback "
+        android:icon="@drawable/ic_send"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/log_in_off_app_bar"
+        android:title="LogIn"
+        app:showAsAction="never"/>
+</menu>

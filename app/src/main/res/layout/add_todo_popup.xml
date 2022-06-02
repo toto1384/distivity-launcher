@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+     android:layout_width= "wrap_content"
+     android:layout_height= "wrap_content"
+     android:textSize= "40sp"
+     android:layout_gravity= "center_horizontal"
+     android:gravity= "center_horizontal"
+     android:text= "Add Todo"
+        android:layout_margin="30dp"
+    android:id="@+id/add_todo_title_view"
+     android:textColor= "?android:textColorPrimary"
+     android:textStyle="bold"
+     app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:layout_width="0dp"
+        android:paddingEnd="50dp"
+        android:layout_margin="15dp"
+        android:textColorHint="@color/colorGray"
+        android:textColor="?android:textColorPrimary"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/add_todo_title_view"
+        android:hint="Todo name"
+        android:id="@+id/edit_text_todo_name_add_todo_popup"/>
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/edit_text_todo_name_add_todo_popup"
+        android:id="@+id/radio_group_add_todo_popup"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For today"
+            android:checked="true"
+            android:textColor="?android:textColorPrimary"
+            android:id="@+id/for_today_radio_group_add_todo_popup"/>
+
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="For later"
+            android:textColor="?android:textColorPrimary"
+            android:id="@+id/for_later_radio_group_add_todo_popup"/>
+    </RadioGroup>
+
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="9:9"
+        app:layout_constraintEnd_toStartOf="@id/done_button_add_todo_popup"
+        app:layout_constraintTop_toTopOf="@id/done_button_add_todo_popup"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/progress_bar_add_todo_popup"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:visibility="gone"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:layout_gravity="center_horizontal"
+        android:textAllCaps="false"
+        android:layout_margin="10dp"
+        android:background="@drawable/buttons_background"
+        android:textColor="@color/colorWhite"
+        android:id="@+id/done_button_add_todo_popup"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintTop_toBottomOf="@id/radio_group_add_todo_popup"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
